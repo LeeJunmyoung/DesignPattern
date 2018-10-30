@@ -7,4 +7,4 @@
 * 3. 사용해야 하는 기능을 Interface로 나열
 * 3. 2개의 스토리지를 API 호출하는 기능을 만들고 상위에 Adapter Class 생성
 * 4. Adapter 클래스에 interface 기능들을 재조합 및 서비스 로직을 구현. 
-* 5. SOLID의 법칙을 잘따른듯 굿굿.
+* 5. SOLID 원칙을 잘따른듯 굿굿.
