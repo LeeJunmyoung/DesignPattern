@@ -1,4 +1,4 @@
-# 3 Singleton 패턴
+# 4 Strategy 패턴
 
 > 전략 패턴(strategy pattern) 또는 정책 패턴(policy pattern)은 실행 중에 알고리즘을 선택할 수 있게 하는 행위 소프트웨어 디자인 패턴이다. 전략 패턴은
 * 특정한 계열의 알고리즘들을 정의하고

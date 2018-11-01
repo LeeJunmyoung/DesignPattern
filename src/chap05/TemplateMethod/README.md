@@ -1,4 +1,4 @@
-# 4 TemplateMethod 패턴
+# 5 TemplateMethod 패턴
 
 > 상속을 통해 기능을 확장하는 패턴  
 > 구체적인 것은 하위클래스에서 처리하도록 하는 구조  
