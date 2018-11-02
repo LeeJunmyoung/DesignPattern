@@ -1,9 +1,9 @@
-package chop09.AbstractFactory;
+package chap09.AbstractFactory;
 
-import chop09.AbstractFactory.abst.AbstFactory;
-import chop09.AbstractFactory.abst.Button;
-import chop09.AbstractFactory.abst.TextArea;
-import chop09.AbstractFactory.creator.GuiFactory;
+import chap09.AbstractFactory.abst.AbstFactory;
+import chap09.AbstractFactory.abst.Button;
+import chap09.AbstractFactory.abst.TextArea;
+import chap09.AbstractFactory.creator.GuiFactory;
 
 public class Main {
 
