@@ -1,9 +1,5 @@
 package chap14.ChainOfResponsibility;
 
-import java.util.ArrayList;
-import java.util.LinkedList;
-import java.util.List;
-
 public abstract class Calculator {
 
 	private Calculator nextCaulator;
